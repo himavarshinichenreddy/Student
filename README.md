@@ -13,4 +13,6 @@ HTML, CSS, JavaScript, Git and GitHub.
 
 How to Run:
 Open index.html in a web browser.
-Student Management using the HTML and CSS
+<<<<<<< HEAD
+Student Management using the HTML and CSS and javascript
+>>>>>>> branch2
