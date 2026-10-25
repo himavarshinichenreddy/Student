@@ -4,9 +4,9 @@ Description:
 A simple web application to manage student records.
 
 Features:
-1. Add student details.
-2. Display student records in a table.
-3. Delete student records.
+ Add student details.
+ Display student records in a table.
+ Delete student records.
 
 Technologies:
 HTML, CSS, JavaScript, Git and GitHub.
