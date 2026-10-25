@@ -13,3 +13,4 @@ HTML, CSS, JavaScript, Git and GitHub.
 
 How to Run:
 Open index.html in a web browser.
+Student Management using javascript
